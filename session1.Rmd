@@ -22,6 +22,12 @@ library(xaringanthemer)
 style_duo_accent(primary_color = "#1F4257", secondary_color = "#F97B64")
 ```
 
+class:inverse, center, middle
+# Source
+### https://github.com/joelgombin/formation_rmarkdown
+
+---
+
 ## Rmarkdown, c'est quoi ?
 
 La rencontre entre **markdown** (une syntaxe très simple de mise en forme de texte) et **R**. Entre les deux, [pandoc](https://pandoc.org/), un outil libre permettant la conversion entre de très nombreux formats de documents. 
